@@ -102,6 +102,6 @@ def game_21():
             else:
                 print("Dealer win,", bid)
 
-
-game_21()
+if __name__ == "__main__":
+    game_21()
 
